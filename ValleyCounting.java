@@ -6,6 +6,8 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+// for counting valleys problem on hackerrank. at https://www.hackerrank.com/challenges/counting-valleys/problem
+
 public class ValleyCounting {
 
     // Complete the countingValleys function below.
