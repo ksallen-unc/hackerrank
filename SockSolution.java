@@ -6,6 +6,8 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
+// for hackerrank Sock Merchant problem, https://www.hackerrank.com/challenges/sock-merchant/problem
+
 public class SockSolution {
 
     // Complete the sockMerchant function below.
